@@ -2,7 +2,7 @@
 
 In linux command modee, using following command to make up the image
 
-   cat onl_dleta_ak7448.tar.bz2.partaa* > onl_dleta_ak7448.tar.bz2
+   cat onl_dleta_ak7448.tar.bz2.part* > onl_dleta_ak7448.tar.bz2
 
    tar -jxvf onl_dleta_ak7448.tar.bz2
 
